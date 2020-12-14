@@ -1,5 +1,6 @@
 This is hangman game made in python.
 After u open the game the menu shows up : ----
+_______________________________________________________________________________________________________________
 
                Welcome To The Game .......
                
@@ -12,7 +13,7 @@ After u open the game the menu shows up : ----
 2. U will first add words .They will shuflled and gusess part starts
 3. Exit
 
-
+______________________________________________________________________________________________________________
 
 Thanks ................
  
